@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+this project works by using computational logic (Binary) to count up from 0-7
 
 ## How to test
 
-Explain how to use your project
+flip the 1 switch on the input row, to make a number go up, flip switch 1 off, then back on again.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+one single output number display is used to show the numbers
